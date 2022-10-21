@@ -11,6 +11,10 @@
     color: var(--dominant-text-color);
     font-family: 'Roboto', sans-serif;
 }
+.studio.current,
+.portfolio.current{
+  color: var(--Text-color);
+}
 .visually-hidden{
   position: absolute;
   white-space: nowrap;
